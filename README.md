@@ -2,3 +2,11 @@
 
 This repository is created as part of SWE 442: Software Configuration Management homework.
 It demonstrates my understanding of version control, branching strategies, and change management using GitHub.
+
+## Best Practices in Software Configuration Management
+
+- Use meaningful commit messages.
+- Maintain a consistent branching strategy.
+- Review and test changes before merging.
+- Keep documentation updated.
+- Regularly tag stable versions.
